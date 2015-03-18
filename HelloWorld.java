@@ -1,4 +1,4 @@
-public class Hello Wolrd {
+public class HelloWorld {
   // Variable für die ausgabe
   private String ausgabe = "Hello Wrold!";
   
